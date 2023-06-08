@@ -333,7 +333,6 @@ a {
     }
 
     .prof img {
-        /* box-shadow: 0 10px 5px #bb155a; */
         display: flex;
         max-width:40%;
         height: 60vh;
@@ -353,7 +352,6 @@ a {
     width: auto;
 }
     .about img {
-        /* box-shadow: 0 10px 5px #bb155a; */
         display: flex;
         max-width: 400px;
         object-fit: contain;
@@ -476,6 +474,7 @@ header a{
     .about p{
         font-size: 50px;
         width: 90%;
+        padding-top: 0px;
     }
     .prof a{
         font-size: 100px;
@@ -495,7 +494,6 @@ header a{
         
     }
     .prof img {
-        /* box-shadow: 0 10px 5px #bb155a; */
         display: flex;
         max-width: 400px;
         height: 40vh;
